@@ -4,11 +4,9 @@ This is a collection of data analysis projects showcasing Excel, Python, SQL, Po
 ## Skills Developed
 
 **Excel & Data Fundamentals:**  
-
 Applied fundamentals of data analysis using Excel, including functions, VLOOKUP, forecasting, chart creation, and data preparation.
 
 **Python (Google Colab):**  
-
 Used Python for data analysis, including retrieving and analysing datasets, and creating visualisations with Matplotlib and Seaborn.
 
 **SQL (MySQL Workbench):**  
