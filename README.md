@@ -3,7 +3,7 @@ This is a collection of data analysis projects showcasing Excel, Python, SQL, Po
 
 ## Skills Developed
 
-<b>Excel & Data Fundamentals<b/>:ggjgjjgjjgjgj
-<b>SQL (MySQL Workbench)<b/>:ertretretert
-<b>Python (Google Colab)<b/>:dfgdfgdfg
-<b>Excel<b/>
+-Excel & Data Fundamentals
+-SQL (MySQL Workbench)
+-Python (Google Colab)
+-Excel<b/>
