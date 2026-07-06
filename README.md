@@ -16,3 +16,6 @@ Learnt about database design, including ERDs (Entity Relationship Diagrams), and
 **Tableau & Power BI:**  
 
 Cleaned data using Power Query, set up relationships between tables, and created interactive dashboards using different features and functions to produce visualisations.
+
+## My Projects 
+### Excel
