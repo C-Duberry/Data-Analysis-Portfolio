@@ -20,6 +20,9 @@ Cleaned data using Power Query, set up relationships between tables, and created
 ## My Projects 
 ### Excel & Data Fundementals
 #### Student Performance Analysis
+###### Project Overview
+
+Analysed a student performance dataset to identify which subjects showed the strongest overall performance.
 
 
 
