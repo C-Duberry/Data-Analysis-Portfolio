@@ -3,3 +3,4 @@ This is a collection of data analysis projects showcasing Excel, Python, SQL, Po
 
 ## Skills Developed
 <b>Excel<b/>
+SQL
