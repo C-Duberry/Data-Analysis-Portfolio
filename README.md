@@ -26,7 +26,9 @@ Cleaned data using Power Query, set up relationships between tables, and created
 Analysed a student performance dataset to identify which subjects showed the strongest overall performance. 
 
 ![Student performance analysis](https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/student-performance-analysis.PNG)
-<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/student-performance-analysis.PNG" alt="Alt Text" width="300" height="200">
+
+<img src="https://raw.githubusercontent.com/C-Duberry/Data-Analysis-Portfolio/main/student-performance-analysis.PNG" alt="Student Performance Analysis" width="300" height="200">
+
 
 #### Project 2: Student Performance Analysis
 
