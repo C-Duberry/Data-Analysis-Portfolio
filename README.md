@@ -27,7 +27,7 @@ Analysed a student performance dataset to identify which subjects showed the str
 
 ![Student performance analysis](https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/student-performance-analysis.PNG)
 
-<img src="https://raw.githubusercontent.com/C-Duberry/Data-Analysis-Portfolio/main/student-performance-analysis.PNG" alt="Student Performance Analysis" width="300" height="200">
+<img src="https://raw.githubusercontent.com/C-Duberry/Data-Analysis-Portfolio/main/student-performance-analysis.PNG" alt="Student Performance Analysis" width="600" height="400">
 
 
 #### Project 2: Student Performance Analysis
