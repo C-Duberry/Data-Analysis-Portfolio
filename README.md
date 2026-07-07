@@ -69,6 +69,9 @@ WHERE LifeExpectancy IS NOT NULL
 ORDER BY LifeExpectancy ASC
 LIMIT 10;
 ```
+
+##### Result & Insights
+
 <table>
   <tr>
     <td>
@@ -80,17 +83,6 @@ LIMIT 10;
 </table>
 
 
-##### Insights
-
-<table>
-  <tr>
-    <td>
-  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/country%20population%20data.PNG?raw=true" alt="[revenue across customer age groups]" width="260" height="165">
-    </td>
-    <td><p>The results highlighted the variation in population sizes among countries within this range, with East Timor having the highest population and Comoros the lowest.</p>
-    </td>
-  </tr>
-</table>
 
 ##### Aggregation
 
@@ -102,14 +94,41 @@ FROM country
 GROUP BY Continent;
 ```
 
+##### Result & Insights
+
 <table>
   <tr>
     <td>
-  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/country%20population%20data.PNG?raw=true" alt="[revenue across customer age groups]" width="260" height="165">
+  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/num%20of%20countries%20per%20con.PNG?raw=true" alt="[revenue across customer age groups]" width="260" height="165">
     </td>
-    <td><p>The results show that Africa has the most countries, while Antarctica has the fewest.</p>
+    <td><p>The results show that North America has the most countries, while Antarctica has the fewest.</p>
     </td>
   </tr>
 </table>
 
 ##### JOIN
+
+Uses a JOIN to combine country and city data to compare capital cities with the highest and lowest populations.
+
+```sql
+-- Highest populated capital cities
+SELECT 
+    country.Name AS Country,
+    city.Name AS Capital_City,
+    city.Population
+FROM country
+JOIN city ON country.Capital = city.ID
+ORDER BY city.Population DESC
+LIMIT 10;
+```
+```sql
+-- Lowest populated capital cities
+SELECT 
+    country.Name AS Country,
+    city.Name AS Capital_City,
+    city.Population
+FROM country
+JOIN city ON country.Capital = city.ID
+ORDER BY city.Population ASC
+LIMIT 10;
+```
