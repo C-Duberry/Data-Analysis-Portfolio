@@ -25,9 +25,7 @@ Cleaned data using Power Query, set up relationships between tables, and created
 
 Analysed a student performance dataset to identify which subjects showed the strongest overall performance. 
 
-![Student performance analysis](https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/student-performance-analysis.PNG)
-
-<img src="https://raw.githubusercontent.com/C-Duberry/Data-Analysis-Portfolio/main/student-performance-analysis.PNG" alt="Student Performance Analysis" width="600" height="400">
+<img src="https://raw.githubusercontent.com/C-Duberry/Data-Analysis-Portfolio/main/student-performance-analysis.PNG" alt="Student Performance Analysis" width="800" height="317">
 
 
 #### Project 2: Student Performance Analysis
@@ -36,4 +34,6 @@ Analysed a student performance dataset to identify which subjects showed the str
 
 Created pivot tables and charts in Excel to analyse a bike sales dataset, identifying yearly revenue and profit trends, comparing product revenue by country, and evaluating revenue across different customer age groups.
 
-![Student performance analysis](https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/Age%20group%20reveue%20pie.PNG)
+
+<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/Age%20group%20reveue%20pie.PNG?raw=true" alt="Student Performance Analysis" width="800" height="367">
+
