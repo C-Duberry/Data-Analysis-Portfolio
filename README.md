@@ -153,11 +153,18 @@ LIMIT 10;
  
 Worked with Python and Pandas to explore and prepare student performance data by cleaning the dataset, applying filters, and creating new columns.
 
+##### Data Cleaning
+Cleaned the dataset by removing incomplete records and correcting missing values.
+```python
+df[df["mark"] >= average_mark]
+```
+
 ##### Filtering
 Identified students whose marks were equal to or above the class average. 
 
 ```python
-df[df["mark"] >= average_mark]
+df = df.drop(26)
+df.loc[8,"gender"] = "male"
 ```
 
 ##### Sorting
