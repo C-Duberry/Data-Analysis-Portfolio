@@ -55,22 +55,38 @@ Used SQL to analyse a world statistics dataset by writing queries such as SELECT
 Filters countries with populations between 500,000 and 1,000,000 and displays them in descending order from highest to lowest population.
 
 ```sql
-SELECT Name, Population
+-- Query 1: Countries with highest life expectancy
+SELECT Name, LifeExpectancy, Continent
 FROM country
-WHERE Population BETWEEN 500000 AND 1000000
-ORDER BY Population DESC;
+ORDER BY LifeExpectancy DESC
+LIMIT 10;
 ```
-
-
-<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/country%20population%20data.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="150" height="165">
-
-##### Insights
-
-The results highlighted the variation in population sizes among countries within this range, with East Timor having the highest population and Comoros the lowest.
+```sql
+-- Query 2: Countries with lowest life expectancy
+SELECT Name, LifeExpectancy, Continent
+FROM country
+WHERE LifeExpectancy IS NOT NULL
+ORDER BY LifeExpectancy ASC
+LIMIT 10;
+```
 <table>
   <tr>
     <td>
-  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/country%20population%20data.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="260" height="165">
+<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/life%20expectancy%20data.png?raw=true" alt="[revenue across customer age groups]" width="775" height="360">
+    </td>
+    <td><p>The results highlighted the variation in population sizes among countries within this range, with East Timor having the highest population and Comoros the lowest.</p>
+    </td>
+  </tr>
+</table>
+
+
+
+##### Insights
+
+<table>
+  <tr>
+    <td>
+  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/country%20population%20data.PNG?raw=true" alt="[revenue across customer age groups]" width="260" height="165">
     </td>
     <td><p>The results highlighted the variation in population sizes among countries within this range, with East Timor having the highest population and Comoros the lowest.</p>
     </td>
@@ -82,5 +98,16 @@ The results highlighted the variation in population sizes among countries within
 ```sql
 SELECT Continent, COUNT(Name) AS Number_of_Countries
 FROM country
-GROUP BY Continent;;
+GROUP BY Continent;
 ```
+
+The results highlighted the variation in population sizes among countries within this range, with East Timor having the highest population and Comoros the lowest.
+<table>
+  <tr>
+    <td>
+  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/country%20population%20data.PNG?raw=true" alt="[revenue across customer age groups]" width="260" height="165">
+    </td>
+    <td><p>The results highlighted the variation in population sizes among countries within this range, with East Timor having the highest population and Comoros the lowest.</p>
+    </td>
+  </tr>
+</table>
