@@ -21,7 +21,7 @@ Used Python for data analysis, including retrieving and analysing datasets, and 
 Cleaned data using Power Query, set up relationships between tables, and created interactive dashboards using different features and functions to produce visualisations.
 
 ## My Projects 
-### <ins>Excel & Data Fundementals</ins>
+### <ins>Excel & Data Fundamentals</ins>
 #### Project 1: Student Performance Analysis
 [Student Analysis file](files/student-analysis.xlsx)
 ##### Project Overview
@@ -48,7 +48,7 @@ Created a relational database design for a fictional small retailer, including a
 
 <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/ERD%20Retailer.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="700" height="446">
 
-#### Project 2: Database Schema Design
+#### Project 2: SQL Data Exploration
  **Project Overview**
  
 Used SQL to analyse a world statistics dataset by writing queries such as SELECT, WHERE, GROUP BY, and JOIN to manipulate data and extract insights.
@@ -78,7 +78,7 @@ LIMIT 10;
 <table>
   <tr>
     <td width="55%">
-<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/life%20expectancy%20data.png?raw=true" alt="[life expectancy data]" width="500" height="200">
+<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/life%20expectancy%20data.png?raw=true" alt="[life expectancy data]" width="480" height="200">
     </td>
     <td width="45%"><p>The results show that countries with the highest life expectancy values are mostly located in Europe, while countries with the lowest values are primarily located in Africa.</p>
     </td>
