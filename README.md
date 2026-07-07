@@ -6,19 +6,19 @@ This is a collection of data analysis projects showcasing Excel, Python, SQL, Po
 **Excel & Data Fundamentals:**  
 Applied fundamentals of data analysis using Excel, including functions, VLOOKUP, forecasting, chart creation, and data preparation.
 
-**Python (Google Colab):**  
-Used Python for data analysis, including retrieving and analysing datasets, and creating visualisations with Matplotlib and Seaborn.
-
-**SQL (MySQL Workbench):**  
+**SQL & Database Design:**
 
 Learnt about database design, including ERDs (Entity Relationship Diagrams), and used SQL queries to retrieve, filter, and manipulate data.
+
+**Python (Google Colab):**  
+Used Python for data analysis, including retrieving and analysing datasets, and creating visualisations with Matplotlib and Seaborn.
 
 **Tableau & Power BI:**  
 
 Cleaned data using Power Query, set up relationships between tables, and created interactive dashboards using different features and functions to produce visualisations.
 
 ## My Projects 
-### Excel & Data Fundementals
+### <ins>Excel & Data Fundementals</ins>
 #### Project 1: Student Performance Analysis
 [Student Analysis file](files/student-analysis.xlsx)
 ##### Project Overview
@@ -27,13 +27,22 @@ Analysed a student performance dataset to identify which subjects showed the str
 
 <img src="https://raw.githubusercontent.com/C-Duberry/Data-Analysis-Portfolio/main/student-performance-analysis.PNG" alt="Student Performance Analysis" width="800" height="317">
 
-
-#### Project 2: Student Performance Analysis
-
+#### Project 2: Bike Sales Trends Visualisation
+[Bike Sales Visualisation file](files/bike-sales-visualisation.xlsx)
 ##### Project Overview
 
 Created pivot tables and charts in Excel to analyse a bike sales dataset, identifying yearly revenue and profit trends, comparing product revenue by country, and evaluating revenue across different customer age groups.
 
+<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/Age%20group%20reveue%20pie.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="800" height="367">
 
-<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/Age%20group%20reveue%20pie.PNG?raw=true" alt="Student Performance Analysis" width="800" height="367">
+### <ins>SQL & Database Design</ins>
+
+#### Project 1: Database Schema Design
+[View SQL Database Schema](files/database_schema.sql)
+##### Project Overview
+
+Created a relational database design for a fictional small retailer, including an Entity Relationship Diagram (ERD) and SQL schema to structure customer, inventory, supplier, loyalty, and sales data.
+
+<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/ERD%20Retailer.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="700" height="446">
+
 
