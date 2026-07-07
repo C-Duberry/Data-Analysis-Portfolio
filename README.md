@@ -70,7 +70,7 @@ The results highlighted the variation in population sizes among countries within
 <table>
   <tr>
     <td>
-  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/country%20population%20data.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="250" height="165">
+  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/country%20population%20data.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="260" height="165">
     </td>
     <td><p>The results highlighted the variation in population sizes among countries within this range, with East Timor having the highest population and Comoros the lowest.</p>
     </td>
