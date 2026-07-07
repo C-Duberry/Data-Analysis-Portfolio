@@ -160,9 +160,17 @@ Identified students whose marks were equal to or above the class average.
 df[df["mark"] >= average_mark]
 ```
 
-#### Sorting
-Sort students by their marks to identify the highest-performing students.
+##### Sorting
+Sorted students by their marks to identify the highest-performing students.
 ```python
 df = df.sort_values(by="mark", ascending=False)
 ```
-
+##### Column Creation
+Created a new column based on student marks. 
+```python
+df.loc[df["mark"] >= 85, "grade"] = "A"
+df.loc[(df["mark"] >= 70) & (df["mark"] <= 84), "grade"] = "B"
+df.loc[(df["mark"] >= 60) & (df["mark"] <= 69), "grade"] = "C"
+df.loc[df["mark"] < 60, "grade"] = "D"
+```
+**Project 2: Python & Data Visualisation**
