@@ -132,3 +132,15 @@ JOIN city ON country.Capital = city.ID
 ORDER BY city.Population ASC
 LIMIT 10;
 ```
+
+##### Result & Insights
+
+<table>
+  <tr>
+    <td>
+  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/city%20population%20comparison.png?raw=true" alt="[revenue across customer age groups]" width="260" height="165">
+    </td>
+    <td><p>The results show that Seoul had the largest capital city population in the dataset, while Adamstown in the Pitcairn Islands had the smallest, highlighting how widely capital city populations can vary.</p>
+    </td>
+  </tr>
+</table>
