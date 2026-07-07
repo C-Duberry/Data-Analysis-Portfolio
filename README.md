@@ -23,7 +23,7 @@ Cleaned data using Power Query, set up relationships between tables, and created
 ## My Projects 
 ### <ins>Excel & Data Fundamentals</ins>
 #### Project 1: Student Performance Analysis
-[Student Analysis file](files/student-analysis.xlsx)
+[Download Student Analysis file](student-performance-insights.xlsx)
 ##### Project Overview
 
 Analysed a student performance dataset to identify which subjects showed the strongest overall performance. 
@@ -31,7 +31,7 @@ Analysed a student performance dataset to identify which subjects showed the str
 <img src="https://raw.githubusercontent.com/C-Duberry/Data-Analysis-Portfolio/main/student-performance-analysis.PNG" alt="Student Performance Analysis" width="800" height="317">
 
 #### Project 2: Bike Sales Trends Visualisation
-[Bike Sales Visualisation file](files/bike-sales-visualisation.xlsx)
+[Bike Sales Visualisation file](bike-sales-visualisation.xlsx)
 ##### Project Overview
 
 Created pivot tables and charts in Excel to analyse a bike sales dataset, identifying yearly revenue and profit trends, comparing product revenue by country, and evaluating revenue across different customer age groups.
@@ -41,7 +41,7 @@ Created pivot tables and charts in Excel to analyse a bike sales dataset, identi
 ### <ins>SQL & Database Design</ins>
 
 #### Project 1: Database Schema Design
-[View SQL Database Schema](files/database_schema.sql)
+[View SQL Database Schema](database_schema.sql)
 ##### Project Overview
 
 Created a relational database design for a fictional small retailer, including an Entity Relationship Diagram (ERD) and SQL schema to structure customer, inventory, supplier, loyalty, and sales data.
