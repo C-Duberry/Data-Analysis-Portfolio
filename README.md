@@ -2,7 +2,7 @@
 <table>
   <tr>
       <td width="55%">
-  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/city%20population%20comparison.png?raw=true" alt="[capital city populations]" width="500" height="317">
+  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/city%20population%20comparison.png?raw=true" alt="[capital city populations]" width="500" height="200">
     </td>
         <td width="45%"><p>The results show that Seoul had the largest capital city population in the dataset, while Adamstown in the Pitcairn Islands had the smallest, highlighting how widely capital city populations can vary.</p>
     </td>
