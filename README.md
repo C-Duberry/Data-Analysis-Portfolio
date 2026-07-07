@@ -1,13 +1,4 @@
 
-<table>
-  <tr>
-      <td width="55%">
-  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/city%20population%20comparison.png?raw=true" alt="[capital city populations]" width="500" height="200">
-    </td>
-        <td width="45%"><p>The results show that Seoul had the largest capital city population in the dataset, while Adamstown in the Pitcairn Islands had the smallest, highlighting how widely capital city populations can vary.</p>
-    </td>
-  </tr>
-</table>
 
 
 
@@ -86,10 +77,10 @@ LIMIT 10;
 
 <table>
   <tr>
-    <td>
-<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/life%20expectancy%20data.png?raw=true" alt="[life expectancy data]" width="400" height="186">
+    <td width="55%">
+<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/life%20expectancy%20data.png?raw=true" alt="[life expectancy data]" width="500" height="200">
     </td>
-    <td><p>The results show that countries with the highest life expectancy values are mostly located in Europe, while countries with the lowest values are primarily located in Africa.</p>
+    <td width="45%"><p>The results show that countries with the highest life expectancy values are mostly located in Europe, while countries with the lowest values are primarily located in Africa.</p>
     </td>
   </tr>
 </table>
@@ -147,12 +138,13 @@ LIMIT 10;
 
 ##### Result & Insights
 
+
 <table>
   <tr>
-      <td width="60%">
-  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/city%20population%20comparison.png?raw=true" alt="[capital city populations]" width="260" height="165">
+      <td width="55%">
+  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/city%20population%20comparison.png?raw=true" alt="[capital city populations]" width="500" height="200">
     </td>
-        <td width="40%"><p>The results show that Seoul had the largest capital city population in the dataset, while Adamstown in the Pitcairn Islands had the smallest, highlighting how widely capital city populations can vary.</p>
+        <td width="45%"><p>The results show that Seoul had the largest capital city population in the dataset, while Adamstown in the Pitcairn Islands had the smallest, highlighting how widely capital city populations can vary.</p>
     </td>
   </tr>
 </table>
