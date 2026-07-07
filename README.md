@@ -52,7 +52,7 @@ Used SQL to analyse a world statistics dataset by writing queries such as SELECT
 
 ##### Filtering
 
-Filters countries with populations between 500,000 and 1,000,000 and displays them in descending order from highest to lowest population.
+Filters global life expectancy data to identify countries with the highest and lowest life expectancy values.
 
 ```sql
 -- Query 1: Countries with highest life expectancy
@@ -74,11 +74,10 @@ LIMIT 10;
     <td>
 <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/life%20expectancy%20data.png?raw=true" alt="[revenue across customer age groups]" width="775" height="360">
     </td>
-    <td><p>The results highlighted the variation in population sizes among countries within this range, with East Timor having the highest population and Comoros the lowest.</p>
+    <td><p>The results show that countries with the highest life expectancy values are mostly located in Europe, while countries with the lowest values are primarily located in Africa.</p>
     </td>
   </tr>
 </table>
-
 
 
 ##### Insights
@@ -95,19 +94,22 @@ LIMIT 10;
 
 ##### Aggregation
 
+Aggregates country data to show the number of countries within each continent.
+
 ```sql
 SELECT Continent, COUNT(Name) AS Number_of_Countries
 FROM country
 GROUP BY Continent;
 ```
 
-The results highlighted the variation in population sizes among countries within this range, with East Timor having the highest population and Comoros the lowest.
 <table>
   <tr>
     <td>
   <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/country%20population%20data.PNG?raw=true" alt="[revenue across customer age groups]" width="260" height="165">
     </td>
-    <td><p>The results highlighted the variation in population sizes among countries within this range, with East Timor having the highest population and Comoros the lowest.</p>
+    <td><p>The results show that Africa has the most countries, while Antarctica has the fewest.</p>
     </td>
   </tr>
 </table>
+
+##### JOIN
