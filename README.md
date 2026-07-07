@@ -20,7 +20,7 @@ Cleaned data using Power Query, set up relationships between tables, and created
 ## My Projects 
 ### Excel & Data Fundementals
 #### Project 1: Student Performance Analysis
-[Download Excel file](files/student-analysis.xlsx)
+[Student Analysis file](files/student-analysis.xlsx)
 ##### Project Overview
 
 Analysed a student performance dataset to identify which subjects showed the strongest overall performance. 
@@ -29,5 +29,11 @@ Analysed a student performance dataset to identify which subjects showed the str
 
 ##### Insights
 
+Mathematics had the lowest average score and the largest range, indicating that overall performance was lower and more varied than in the other subjects.
 
+#### Project 2: Student Performance Analysis
+
+##### Project Overview
+
+Created pivot tables and charts in Excel to analyse a bike sales dataset, identifying yearly revenue and profit trends, comparing product revenue by country, and evaluating revenue across different customer age groups.
 
