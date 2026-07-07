@@ -19,7 +19,7 @@ Cleaned data using Power Query, set up relationships between tables, and created
 
 ## My Projects 
 ### Excel & Data Fundementals
-#### Student Performance Analysis
+#### Project 1: Student Performance Analysis
 [Download Excel file](files/student-analysis.xlsx)
 ##### Project Overview
 
@@ -27,6 +27,7 @@ Analysed a student performance dataset to identify which subjects showed the str
 
 ![Student performance analysis](https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/student-performance-analysis.PNG?raw=true)
 
+##### Insights
 
 
 
