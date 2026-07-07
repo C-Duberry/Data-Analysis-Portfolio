@@ -40,16 +40,16 @@ Created pivot tables and charts in Excel to analyse a bike sales dataset, identi
 
 ### <ins>SQL & Database Design</ins>
 
-#### Project 1: Database Schema Design
+ **Project 1: Database Schema Design**
 [View SQL Database Schema](database_schema.sql)
-##### Project Overview
+
 
 Created a relational database design for a fictional small retailer, including an Entity Relationship Diagram (ERD) and SQL schema to structure customer, inventory, supplier, loyalty, and sales data.
 
 <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/ERD%20Retailer.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="700" height="446">
 
-#### Project 2: SQL Data Exploration
- **Project Overview**
+**Project 2: SQL Data Exploration**
+
  
 Used SQL to analyse a world statistics dataset by writing queries such as SELECT, WHERE, GROUP BY, and JOIN to manipulate data and extract insights.
 
@@ -138,7 +138,6 @@ LIMIT 10;
 
 ##### Result & Insights
 
-
 <table>
   <tr>
       <td width="55%">
@@ -149,4 +148,21 @@ LIMIT 10;
   </tr>
 </table>
 
+### <ins>Python </ins>
+**Project 1: Python Data Cleaning & Transformation**
+ 
+Worked with Python and Pandas to explore and prepare student performance data by cleaning the dataset, applying filters, and creating new columns.
+
+##### Filtering
+Identified students whose marks were equal to or above the class average. 
+
+```python
+df[df["mark"] >= average_mark]
+```
+
+#### Sorting
+Sort students by their marks to identify the highest-performing students.
+```python
+df = df.sort_values(by="mark", ascending=False)
+```
 
