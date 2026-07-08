@@ -104,7 +104,7 @@ ORDER BY Number_of_Countries DESC;
 <table>
   <tr>
     <td>
-  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/num%20of%20countries%20per%20con.PNG?raw=true" alt="[number of countries within each continent]" width="260" height="165">
+  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/num%20of%20countries%20per%20cont.PNG?raw=true" alt="[number of countries within each continent]" width="260" height="165">
     </td>
     <td><p>The results show that North America has the most countries, while Antarctica has the fewest.</p>
     </td>
@@ -238,15 +238,15 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
   </tr>
 </table>
 
-#### Scatter Plot
+#### Count Plot
 
 <table>
   <tr>
       <td width="60%">
- <p>The scatter plot shows a similar distribution of marks across both genders. Female students achieved slightly higher marks overall, while one male student appears as a clear low-scoring outlier. </p>
+ <p>The count plot shows the number of students in each class. Class Seven has the most students, while Class Eight has the fewest. The chart highlights the variation in class sizes across the dataset. </p>
     </td>
      <td width="40%">
-     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-scatter-plot.PNG?raw=true" alt="[Scatter plot]" width="350" height="276">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-count-plot.PNG?raw=true" alt="[Scatter plot]" width="350" height="276">
     </td>
   </tr>
 </table>
