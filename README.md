@@ -292,6 +292,7 @@ Created an interactive Power BI dashboard using the Adventure Works dataset to a
 
    <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/power-bi.PNG?raw=true" alt="[Global Health Insights Dashboard]" >
    
+#### Findings
 
 - Sales varied between 2019 and 2020, with August 2019 showing the highest sales and January 2020 the lowest.
 - The United States generated the highest sales, with bikes being the top-performing category across most countries.
