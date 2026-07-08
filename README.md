@@ -262,3 +262,5 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
     </td>
   </tr>
 </table>
+
+### <ins>Tableau & Power BI</ins>
