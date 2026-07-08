@@ -171,7 +171,7 @@ df['class'] = df['class'].replace('Fifth', 'Five')
  <p>Identified students whose marks were equal to or above the class average.</p>
     </td>
    <td width="30%">
-     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-filtering-up.PNG?raw=true" alt="[capital city populations]" width="500" height="281">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-filtering-up.PNG?raw=true" alt="[capital city populations]" width="500" height="150">
     </td>
   </tr>
 </table>
@@ -188,7 +188,7 @@ df[df["mark"] >= average_mark]
  <p>Sorted students by their marks to identify the highest-performing students.</p>
     </td>
     <td width="30%">
-     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-sorting.PNG?raw=true" alt="[capital city populations]" width="500" height="281">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-sorting.PNG?raw=true" alt="[capital city populations]" width="500" height="150">
     </td>
   </tr>
 </table>
@@ -205,7 +205,7 @@ df = df.sort_values(by="mark", ascending=False)
  <p>Created a new column called grade with values based on student marks. </p>
     </td>
      <td width="30%">
-     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-column-new.PNG?raw=true" alt="[capital city populations]" width="500" height="281">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-column-new.PNG?raw=true" alt="[capital city populations]" width="500" height="150">
     </td>
   </tr>
 </table>
