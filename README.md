@@ -278,7 +278,7 @@ Created an interactive Tableau dashboard to visualise global life expectancy tre
 
    <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/tableau-dash.PNG?raw=true" alt="[Global Health Insights Dashboard]" >
    
-[View Tableau Profile](https://public.tableau.com/views/GlobalHealthInsights_17804163544460/GlobalHealthDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View dashboard](https://public.tableau.com/views/GlobalHealthInsights_17804163544460/GlobalHealthDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Findings
 
@@ -291,9 +291,13 @@ Created an interactive Tableau dashboard to visualise global life expectancy tre
 Created an interactive Power BI dashboard using the Adventure Works dataset to analyse sales performance, product categories, and country trends.
 
    <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/power-bi.PNG?raw=true" alt="[Global Health Insights Dashboard]" >
+
+[View dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVjMzZjZDctMmYyNC00Yzk4LWIwZDMtOTgxYjhlODZjNTI1IiwidCI6ImU2MzRiNjZmLWYyOTUtNDdmOS05YzQ0LTc3Y2QwYzBjM2YyYSJ9&pageName=ReportSection)
    
 #### Findings
 
 - Sales varied between 2019 and 2020, with August 2019 showing the highest sales and January 2020 the lowest.
 - The United States generated the highest sales, with bikes being the top-performing category across most countries.
 - Clothing had the highest sales quantity, while bikes generated higher sales value due to their higher price point.
+
+
