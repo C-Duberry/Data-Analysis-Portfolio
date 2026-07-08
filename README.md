@@ -78,7 +78,7 @@ LIMIT 10;
 <table>
   <tr>
     <td width="55%">
-<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/life%20expectancy%20data.png?raw=true" alt="[life expectancy data]" width="480" height="200">
+<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/life%20expectancy%20data.png?raw=true" alt="[life expectancy data]" width="450" height="200">
     </td>
     <td width="45%"><p>The results show that countries with the highest life expectancy values are mostly located in Europe, while countries with the lowest values are primarily located in Africa.</p>
     </td>
@@ -150,34 +150,69 @@ LIMIT 10;
 
 ### <ins>Python </ins>
 **Project 1: Python Data Cleaning & Transformation**
+[View Python Notebook ](python_data.ipynb)
  
 Worked with Python and Pandas to explore and prepare student performance data by cleaning the dataset, applying filters, and creating new columns.
 
 ##### Data Cleaning
 Cleaned the dataset by removing incomplete records and correcting missing values.
 ```python
-df[df["mark"] >= average_mark]
-```
-
-##### Filtering
-Identified students whose marks were equal to or above the class average. 
-
-```python
 df = df.drop(26)
 df.loc[8,"gender"] = "male"
 ```
+##### Filtering
 
+
+<table>
+  <tr>
+     <td width="70%">
+ <p>Identified students whose marks were equal to or above the class average.</p>
+    </td>
+   <td width="30%">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-filtering.PNG?raw=true" alt="[capital city populations]" width="500" height="281">
+    </td>
+  </tr>
+</table>
+
+```python
+df[df["mark"] >= average_mark]
+```
+ 
 ##### Sorting
-Sorted students by their marks to identify the highest-performing students.
+
+<table>
+  <tr>
+      <td width="70%">
+ <p>Sorted students by their marks to identify the highest-performing students.</p>
+    </td>
+    <td width="30%">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-sorting.PNG?raw=true" alt="[capital city populations]" width="500" height="281">
+    </td>
+  </tr>
+</table>
+
 ```python
 df = df.sort_values(by="mark", ascending=False)
 ```
+
 ##### Column Creation
-Created a new column based on student marks. 
+
+<table>
+  <tr>
+      <td width="70%">
+ <p>Created a new column called grade with values based on student marks. </p>
+    </td>
+     <td width="30%">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-column-new.PNG?raw=true" alt="[capital city populations]" width="500" height="281">
+    </td>
+  </tr>
+</table>
+
 ```python
 df.loc[df["mark"] >= 85, "grade"] = "A"
 df.loc[(df["mark"] >= 70) & (df["mark"] <= 84), "grade"] = "B"
 df.loc[(df["mark"] >= 60) & (df["mark"] <= 69), "grade"] = "C"
 df.loc[df["mark"] < 60, "grade"] = "D"
 ```
+
 **Project 2: Python & Data Visualisation**
