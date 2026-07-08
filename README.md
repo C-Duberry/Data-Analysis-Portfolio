@@ -226,8 +226,6 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
 
 #### Bar Chart 
 
-Displays the average mark achieved by each class.
-
 <table>
   <tr>
       <td width="60%">
@@ -238,3 +236,5 @@ Displays the average mark achieved by each class.
     </td>
   </tr>
 </table>
+
+#### Scatter Plot
