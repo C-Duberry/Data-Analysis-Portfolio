@@ -160,6 +160,7 @@ Cleaned the dataset by removing incomplete records and correcting missing values
 ```python
 df = df.drop(26)
 df.loc[8,"gender"] = "male"
+df['class'] = df['class'].replace('Fifth', 'Five')
 ```
 ##### Filtering
 
@@ -170,7 +171,7 @@ df.loc[8,"gender"] = "male"
  <p>Identified students whose marks were equal to or above the class average.</p>
     </td>
    <td width="30%">
-     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-filtering.PNG?raw=true" alt="[capital city populations]" width="500" height="281">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-filtering-up.PNG?raw=true" alt="[capital city populations]" width="500" height="281">
     </td>
   </tr>
 </table>
