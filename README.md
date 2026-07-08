@@ -294,7 +294,7 @@ Created interactive dashboards using Tableau and Power BI to visualise data and 
 
 [View Tableau Profile](https://public.tableau.com/app/profile/charlotte.duberry/vizzes)
 
-### Project 1: Global Health Insights Dashboard 
+### Project: Global Health Insights Dashboard 
 
 Created an interactive Tableau dashboard to visualise global life expectancy trends and explore differences between countries and continents.
 
@@ -310,7 +310,7 @@ Created an interactive Tableau dashboard to visualise global life expectancy tre
 
 <br>
 
-### Project 2: Sales Performance Dashboard 
+### Project: Sales Performance Dashboard 
 
 Created an interactive Power BI dashboard using the Adventure Works dataset to analyse sales performance, product categories, and country trends.
 
