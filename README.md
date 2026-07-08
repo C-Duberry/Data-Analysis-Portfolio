@@ -55,7 +55,7 @@ Used SQL to analyse a world statistics dataset by writing queries such as SELECT
 
 ##### Filtering
 
-Filters global life expectancy data to identify countries with the highest and lowest life expectancy values.
+Filtered global life expectancy data to identify countries with the highest and lowest life expectancy values.
 
 ```sql
 -- Query 1: Countries with highest life expectancy
@@ -89,7 +89,7 @@ LIMIT 10;
 
 ##### Aggregation
 
-Aggregates country data to show the number of countries within each continent.
+Aggregated country data to show the number of countries within each continent.
 
 ```sql
 SELECT Continent, COUNT(Name) AS Number_of_Countries
@@ -111,7 +111,7 @@ GROUP BY Continent;
 
 ##### JOIN
 
-Uses a JOIN to combine country and city data to compare capital cities with the highest and lowest populations.
+Used a JOIN to combine country and city data to compare capital cities with the highest and lowest populations.
 
 ```sql
 -- Highest populated capital cities
