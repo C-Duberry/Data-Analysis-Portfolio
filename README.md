@@ -3,8 +3,9 @@
 
 
 This is a collection of data analysis projects showcasing Excel, Python, SQL, Power BI, Tableau, and data visualisation.
+<br>
 
-## Skills Developed
+# Skills Developed
 
 **Excel & Data Fundamentals:**  
 Applied fundamentals of data analysis using Excel, including functions, VLOOKUP, forecasting, chart creation, and data preparation.
@@ -20,27 +21,35 @@ Used Python for data analysis, including retrieving and analysing datasets, and 
 
 Cleaned data using Power Query, set up relationships between tables, and created interactive dashboards using different features and functions to produce visualisations.
 
-## My Projects 
-### <ins>Excel & Data Fundamentals</ins>
-#### Project 1: Student Performance Analysis
+<br>
+
+# My Projects 
+
+## <ins>Excel & Data Fundamentals</ins>
+
+### Project 1: Student Performance Analysis
 [Download Student Analysis file](student-performance-insights.xlsx)
-##### Project Overview
+#### Project Overview
 
 Analysed a student performance dataset to identify which subjects showed the strongest overall performance. 
 
-<img src="https://raw.githubusercontent.com/C-Duberry/Data-Analysis-Portfolio/main/student-performance-analysis.PNG" alt="Student Performance Analysis" width="800" height="317">
+<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/student-performance-analysis-for.PNG?raw=true" width="800" height="350">
 
-#### Project 2: Bike Sales Trends Visualisation
+<br>
+
+### Project 2: Bike Sales Trends Visualisation
 [Bike Sales Visualisation file](bike-sales-visualisation.xlsx)
-##### Project Overview
+#### Project Overview
 
 Created pivot tables and charts in Excel to analyse a bike sales dataset, identifying yearly revenue and profit trends, comparing product revenue by country, and evaluating revenue across different customer age groups.
 
-<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/Age%20group%20reveue%20pie.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="800" height="367">
+<img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/Age%20group%20reveue%20pie.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="800" height="407">
 
-### <ins>SQL & Database Design</ins>
+<br>
 
- **Project 1: Database Schema Design** 
+## <ins>SQL & Database Design</ins>
+
+### Project 1: Database Schema Design
  
 [View SQL Database Schema](database_schema.sql)
 
@@ -49,12 +58,14 @@ Created a relational database design for a fictional small retailer, including a
 
 <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/ERD%20Retailer.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="700" height="446">
 
-**Project 2: SQL Data Exploration**
+<br>
+
+### Project 2: SQL Data Exploration
 
  
 Used SQL to analyse a world statistics dataset by writing queries such as SELECT, WHERE, GROUP BY, and JOIN to manipulate data and extract insights.
 
-##### Filtering
+#### Filtering
 
 Filtered global life expectancy data to identify countries with the highest and lowest life expectancy values.
 
@@ -74,7 +85,7 @@ ORDER BY LifeExpectancy ASC
 LIMIT 10;
 ```
 
-##### Result & Insights
+#### Result & Insights
 
 <table>
   <tr>
@@ -86,9 +97,9 @@ LIMIT 10;
   </tr>
 </table>
 
+<br>
 
-
-##### Aggregation
+#### Aggregation
 
 Aggregated country data to show the number of countries within each continent.
 
@@ -111,7 +122,9 @@ ORDER BY Number_of_Countries DESC;
   </tr>
 </table>
 
-##### JOIN
+<br>
+
+#### JOIN
 
 Used a JOIN to combine country and city data to compare capital cities with the highest and lowest populations.
 
@@ -150,22 +163,26 @@ LIMIT 10;
   </tr>
 </table>
 
-### <ins>Python </ins>
-**Project 1: Python Data Cleaning & Transformation** 
+<br>
+
+## <ins>Python </ins>
+
+### Project 1: Python Data Cleaning & Transformation
  
 Worked with Python and Pandas to explore and prepare student performance data by cleaning the dataset, applying filters, and creating new columns.
 
 [View Python Notebook ](python_datax.ipynb)
 
-##### Data Cleaning
+#### Data Cleaning
 Cleaned the dataset by removing incomplete records and correcting missing values.
 ```python
 df = df.drop(26)
 df.loc[8,"gender"] = "male"
 df['class'] = df['class'].replace('Fifth', 'Five')
 ```
-##### Filtering
+<br>
 
+#### Filtering
 
 <table>
   <tr>
@@ -181,8 +198,9 @@ df['class'] = df['class'].replace('Fifth', 'Five')
 ```python
 df[df["mark"] >= average_mark]
 ```
+ <br>
  
-##### Sorting
+#### Sorting
 
 <table>
   <tr>
@@ -198,8 +216,9 @@ df[df["mark"] >= average_mark]
 ```python
 df = df.sort_values(by="mark", ascending=False)
 ```
+<br>
 
-##### Column Creation
+#### Column Creation
 
 <table>
   <tr>
@@ -218,8 +237,9 @@ df.loc[(df["mark"] >= 70) & (df["mark"] <= 84), "grade"] = "B"
 df.loc[(df["mark"] >= 60) & (df["mark"] <= 69), "grade"] = "C"
 df.loc[df["mark"] < 60, "grade"] = "D"
 ```
+<br>
 
-**Project 2: Python & Data Visualisation** 
+### Project 2: Python & Data Visualisation
 
 Created data visualisations using Matplotlib and Seaborn to analyse student performance data. 
 
@@ -264,15 +284,17 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
   </tr>
 </table>
 
-### <ins>Tableau & Power BI</ins>
+<br> 
+
+## <ins>Tableau & Power BI</ins>
 
 Created interactive dashboards using Tableau and Power BI to visualise data and present findings using charts, filters, and metrics.
 
-**Tableau** 
+### Tableau
 
 [View Tableau Profile](https://public.tableau.com/app/profile/charlotte.duberry/vizzes)
 
-**Project 1: Global Health Insights Dashboard**
+### Project 1: Global Health Insights Dashboard 
 
 Created an interactive Tableau dashboard to visualise global life expectancy trends and explore differences between countries and continents.
 
@@ -286,7 +308,9 @@ Created an interactive Tableau dashboard to visualise global life expectancy tre
 - The BMI comparison did not show a clear relationship with life expectancy, suggesting other factors may influence health outcomes.
 - Life expectancy has generally increased over time, although differences between individual countries remain visible.
 
-**Project 2: Sales Performance Dashboard** 
+<br>
+
+### Project 2: Sales Performance Dashboard 
 
 Created an interactive Power BI dashboard using the Adventure Works dataset to analyse sales performance, product categories, and country trends.
 
