@@ -218,3 +218,10 @@ df.loc[df["mark"] < 60, "grade"] = "D"
 ```
 
 **Project 2: Python & Data Visualisation**
+[View Python Notebook ](python_visualisationx.ipynb)
+Created data visualisations using Matplotlib and Seaborn to analyse student performance data.
+
+#### Bar Chart 
+
+Displays the average mark achieved by each class.
+
