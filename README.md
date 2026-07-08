@@ -149,7 +149,8 @@ LIMIT 10;
 </table>
 
 ### <ins>Python </ins>
-**Project 1: Python Data Cleaning & Transformation**
+**Project 1: Python Data Cleaning & Transformation** 
+
 [View Python Notebook ](python_data.ipynb)
  
 Worked with Python and Pandas to explore and prepare student performance data by cleaning the dataset, applying filters, and creating new columns.
