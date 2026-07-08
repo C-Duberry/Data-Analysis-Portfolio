@@ -154,7 +154,7 @@ LIMIT 10;
  
 Worked with Python and Pandas to explore and prepare student performance data by cleaning the dataset, applying filters, and creating new columns.
 
-[View Python Notebook ](python_data.ipynb)
+[View Python Notebook ](python_datax.ipynb)
 
 ##### Data Cleaning
 Cleaned the dataset by removing incomplete records and correcting missing values.
@@ -172,7 +172,7 @@ df['class'] = df['class'].replace('Fifth', 'Five')
  <p>Identified students whose marks were equal to or above the class average.</p>
     </td>
    <td width="30%">
-     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-filtering-up.PNG?raw=true" alt="[capital city populations]" width="500" height="150">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-filtering-up.PNG?raw=true" alt="[Python filtering]" width="500" height="150">
     </td>
   </tr>
 </table>
@@ -189,7 +189,7 @@ df[df["mark"] >= average_mark]
  <p>Sorted students by their marks to identify the highest-performing students.</p>
     </td>
     <td width="30%">
-     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-sorting.PNG?raw=true" alt="[capital city populations]" width="500" height="150">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-sorting.PNG?raw=true" alt="[Python sorting]" width="500" height="150">
     </td>
   </tr>
 </table>
@@ -206,7 +206,7 @@ df = df.sort_values(by="mark", ascending=False)
  <p>Created a new column called grade with values based on student marks. </p>
     </td>
      <td width="30%">
-     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-column-new.PNG?raw=true" alt="[capital city populations]" width="500" height="150">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-column-new.PNG?raw=true" alt="[Column Creation]" width="500" height="150">
     </td>
   </tr>
 </table>
@@ -232,7 +232,7 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
  <p>The bar chart shows the average mark for each class. Class 6 has the highest average, while Class 9 has the lowest. Excluding Class 9, all classes achieved an average mark above 50. </p>
     </td>
      <td width="40%">
-     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-bar-chart.PNG?raw=true" alt="[capital city populations]" width="350" height="276">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-bar-chart.PNG?raw=true" alt="[Bar chart]" width="350" height="276">
     </td>
   </tr>
 </table>
@@ -264,3 +264,6 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
 </table>
 
 ### <ins>Tableau & Power BI</ins>
+
+Created interactive dashboards using Tableau and Power BI to visualise data and present findings using charts, filters, and metrics.
+
