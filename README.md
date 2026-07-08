@@ -228,4 +228,13 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
 
 Displays the average mark achieved by each class.
 
-
+<table>
+  <tr>
+      <td width="60%">
+ <p>The bar chart shows the average mark for each class. Class 6 has the highest average, while Class 9 has the lowest. Excluding Class 9, all classes achieved an average mark above 50. </p>
+    </td>
+     <td width="40%">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-bar-chart.PNG?raw=true" alt="[capital city populations]" width="350" height="276">
+    </td>
+  </tr>
+</table>
