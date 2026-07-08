@@ -238,3 +238,15 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
 </table>
 
 #### Scatter Plot
+
+<table>
+  <tr>
+      <td width="60%">
+ <p>The scatter plot shows a similar distribution of marks across both genders. Female students achieved slightly higher marks overall, while one male student appears as a clear low-scoring outlier. </p>
+    </td>
+     <td width="40%">
+     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-scatter-plot.PNG?raw=true" alt="[capital city populations]" width="350" height="276">
+    </td>
+  </tr>
+</table>
+
