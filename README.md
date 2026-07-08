@@ -151,10 +151,10 @@ LIMIT 10;
 
 ### <ins>Python </ins>
 **Project 1: Python Data Cleaning & Transformation** 
-
-[View Python Notebook ](python_data.ipynb)
  
 Worked with Python and Pandas to explore and prepare student performance data by cleaning the dataset, applying filters, and creating new columns.
+
+[View Python Notebook ](python_data.ipynb)
 
 ##### Data Cleaning
 Cleaned the dataset by removing incomplete records and correcting missing values.
@@ -220,21 +220,12 @@ df.loc[df["mark"] < 60, "grade"] = "D"
 
 **Project 2: Python & Data Visualisation** 
 
-[View Python Notebook ](python_visualisationx.ipynb)
+Created data visualisations using Matplotlib and Seaborn to analyse student performance data. 
 
-Created data visualisations using Matplotlib and Seaborn to analyse student performance data.
+[View Python Notebook ](python_visualisationx.ipynb)
 
 #### Bar Chart 
 
 Displays the average mark achieved by each class.
 
-<table>
-  <tr>
-      <td width="70%">
- <p>The bar chart shows the average mark for each class. Class 6 has the highest average, while Class 9 has the lowest. Excluding Class 9, all classes achieved an average mark above 50. </p>
-    </td>
-     <td width="30%">
-     <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/python-column-new.PNG?raw=true" alt="[capital city populations]" width="500" height="150">
-    </td>
-  </tr>
-</table>
+
