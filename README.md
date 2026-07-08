@@ -40,7 +40,8 @@ Created pivot tables and charts in Excel to analyse a bike sales dataset, identi
 
 ### <ins>SQL & Database Design</ins>
 
- **Project 1: Database Schema Design**
+ **Project 1: Database Schema Design** 
+ 
 [View SQL Database Schema](database_schema.sql)
 
 
