@@ -1,3 +1,4 @@
+
 # Hi, I'm Charlotte
 
 I’m a junior data analyst who enjoys working with datasets, exploring patterns, and turning findings into clear, valuable insights. Through self‑learning, coursework, and hands‑on projects, I’ve built practical skills in Excel, SQL, Python, Tableau, and Power BI, applying them to real problems like cleaning messy data, analysing trends, and creating visualisations that tell a story.
