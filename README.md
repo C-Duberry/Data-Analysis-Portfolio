@@ -1,8 +1,10 @@
+# Hi, I'm Charlotte
 
 
+I’m a junior data analyst who enjoys working with datasets, exploring patterns, and turning findings into clear, valuable insights. Through self‑learning, coursework, and hands‑on projects, I’ve built practical skills in Excel, SQL, Python, Tableau, and Power BI, applying them to real problems like cleaning messy data, analysing trends, and creating visualisations that tell a story.
 
+This portfolio reflects the work I’ve done so far and the skills I’m continuing to develop. I’m excited to keep growing, take on more complex projects, and apply what I’ve learned in a professional environment.
 
-This is a collection of data analysis projects showcasing Excel, Python, SQL, Power BI, Tableau, and data visualisation.
 <br>
 
 # Skills Developed
