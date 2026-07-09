@@ -89,7 +89,7 @@ LIMIT 10;
 
 #### Result & Insights
 
-<table>
+<table class="test">
   <tr>
     <td width="60%">
 <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/life-expectancy.PNG?raw=true" alt="[life expectancy data]" width="550" height="230">
