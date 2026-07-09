@@ -115,7 +115,7 @@ ORDER BY Number_of_Countries DESC;
 <table>
   <tr>
     <td>
-  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/num%20of%20countries%20per%20cont.PNG?raw=true" alt="[number of countries within each continent]" width="550" height="230">
+  <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/num%20of%20countries%20per%20cont.PNG?raw=true" alt="[number of countries within each continent]" width="480" height="230">
     </td>
     <td><p>The results show that North America has the most countries, while Antarctica has the fewest.</p>
     </td>
@@ -172,6 +172,8 @@ LIMIT 10;
 Worked with Python and Pandas to explore and prepare student performance data by cleaning the dataset, applying filters, and creating new columns.
 
 [View Python Notebook ](python_datax.ipynb)
+
+<br>
 
 #### Data Cleaning
 Cleaned the dataset by removing incomplete records and correcting missing values.
@@ -245,6 +247,8 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
 
 [View Python Notebook ](python_visualisationx.ipynb)
 
+<br>
+
 #### Bar Chart 
 
 <table>
@@ -294,6 +298,8 @@ Created interactive dashboards using Tableau and Power BI to visualise data and 
 
 [View Tableau Profile](https://public.tableau.com/app/profile/charlotte.duberry/vizzes)
 
+<br>
+
 ### Project: Global Health Insights Dashboard 
 
 Created an interactive Tableau dashboard to visualise global life expectancy trends and explore differences between countries and continents.
@@ -316,7 +322,9 @@ Created an interactive Power BI dashboard using the Adventure Works dataset to a
 
    <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/power-bi.PNG?raw=true" alt="[Global Health Insights Dashboard]" >
 
-[View dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVjMzZjZDctMmYyNC00Yzk4LWIwZDMtOTgxYjhlODZjNTI1IiwidCI6ImU2MzRiNjZmLWYyOTUtNDdmOS05YzQ0LTc3Y2QwYzBjM2YyYSJ9&pageName=ReportSection)
+ [View dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmVjMzZjZDctMmYyNC00Yzk4LWIwZDMtOTgxYjhlODZjNTI1IiwidCI6ImU2MzRiNjZmLWYyOTUtNDdmOS05YzQ0LTc3Y2QwYzBjM2YyYSJ9&pageName=ReportSection)
+
+
    
 #### Findings
 
