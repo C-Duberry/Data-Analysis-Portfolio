@@ -40,7 +40,7 @@ Analysed a student performance dataset to identify which subjects showed the str
 <br>
 
 ### Project 2: Bike Sales Trends Visualisation
-[Bike Sales Visualisation file](bike-sales-visualisation.xlsx)
+[Download Bike Sales Visualisation file](bike-sales-visualisation.xlsx)
 #### Project Overview
 
 Created pivot tables and charts in Excel to analyse a bike sales dataset, identifying yearly revenue and profit trends, comparing product revenue by country, and evaluating revenue across different customer age groups.
