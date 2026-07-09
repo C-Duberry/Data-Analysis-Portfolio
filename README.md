@@ -9,7 +9,7 @@ This portfolio reflects the work I’ve done so far and the skills I’m continu
 
 # Skills Developed
 
-**Excel & Data Fundamentals:**
+**Excel & Data Fundamentals**
 Applied fundamentals of data analysis using Excel, including functions, VLOOKUP, forecasting, chart creation, and data preparation.
 
 **SQL & Database Design:**
@@ -27,7 +27,7 @@ Cleaned data using Power Query, set up relationships between tables, and created
 
 # My Projects 
 
-## #<ins>Excel & Data Fundamentals</ins>
+## <ins>Excel & Data Fundamentals</ins>
 
 ### Project 1: Student Performance Analysis
 [Download Student Analysis file](student-performance-insights.xlsx)
