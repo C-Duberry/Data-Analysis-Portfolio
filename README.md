@@ -9,17 +9,18 @@ This portfolio reflects the work I’ve done so far and the skills I’m continu
 
 # Skills Developed
 
-**Excel & Data Fundamentals**
+### Excel & Data Fundamentals
+
 Applied fundamentals of data analysis using Excel, including functions, VLOOKUP, forecasting, chart creation, and data preparation.
 
-**SQL & Database Design:**
+### SQL & Database Design:
 
 Learnt about database design, including ERDs (Entity Relationship Diagrams), and used SQL queries to retrieve, filter, and manipulate data.
 
-**Python (Google Colab):**  
+### Python (Google Colab):  
 Used Python for data analysis, including retrieving and analysing datasets, and creating visualisations with Matplotlib and Seaborn.
 
-**Tableau & Power BI:**  
+### Tableau & Power BI:
 
 Cleaned data using Power Query, set up relationships between tables, and created interactive dashboards using different features and functions to produce visualisations.
 
@@ -27,8 +28,13 @@ Cleaned data using Power Query, set up relationships between tables, and created
 
 
 # My Projects 
+---
+| [Excel](excel.md)
+| [SQL](sql.md)
+| [Python](python.md)
+| [Data Visualisation](data-visualisation.md) |
+---
 
-📊 [Excel](excel.md)
-🗄️ [SQL](sql.md)
-🐍 [Python](python.md)
-📈 [Data Visualisation](data-visualisation.md)
+
+
+
