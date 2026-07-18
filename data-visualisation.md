@@ -31,7 +31,7 @@ Created an interactive Tableau dashboard to explore global CO₂ emissions trend
 
    <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/c02-world.PNG?raw=true" alt="[Global C02 Emmission Trends]" >
    
-[View dashboard](https://public.tableau.com/views/GlobalHealthInsights_17804163544460/GlobalHealthDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+[View dashboard](https://public.tableau.com/views/GlobalCOGHGEmissionsDashboard17502024/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 #### Findings
 
