@@ -1,6 +1,8 @@
-## <ins>Python </ins>
+# <ins>Python </ins>
 
-### Project 1: Python Data Cleaning & Transformation
+<br>
+
+## Project 1: Python Data Cleaning & Transformation
  
 Worked with Python and Pandas to explore and prepare student performance data by cleaning the dataset, applying filters, and creating new columns.
 
@@ -8,7 +10,7 @@ Worked with Python and Pandas to explore and prepare student performance data by
 
 <br>
 
-#### Data Cleaning
+### Data Cleaning
 Cleaned the dataset by removing incomplete records and correcting missing values.
 ```python
 df = df.drop(26)
@@ -17,7 +19,7 @@ df['class'] = df['class'].replace('Fifth', 'Five')
 ```
 <br>
 
-#### Filtering
+### Filtering
 
 <table>
   <tr>
@@ -35,7 +37,7 @@ df[df["mark"] >= average_mark]
 ```
  <br>
  
-#### Sorting
+### Sorting
 
 <table>
   <tr>
@@ -53,7 +55,7 @@ df = df.sort_values(by="mark", ascending=False)
 ```
 <br>
 
-#### Column Creation
+### Column Creation
 
 <table>
   <tr>
@@ -74,7 +76,11 @@ df.loc[df["mark"] < 60, "grade"] = "D"
 ```
 <br>
 
-### Project 2: Python & Data Visualisation
+---
+
+<br>
+
+## Project 2: Python & Data Visualisation
 
 Created data visualisations using Matplotlib and Seaborn to analyse student performance data. 
 
@@ -82,7 +88,7 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
 
 <br>
 
-#### Bar Chart 
+### Bar Chart 
 
 <table>
   <tr>
@@ -95,7 +101,7 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
   </tr>
 </table>
 
-#### Count Plot
+### Count Plot
 
 <table>
   <tr>
@@ -108,7 +114,7 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
   </tr>
 </table>
 
-#### Box Plot
+### Box Plot
 
 <table>
   <tr>
