@@ -1,8 +1,11 @@
-## <ins>Excel & Data Fundamentals</ins>
+# <ins>Excel & Data Fundamentals</ins>
 
-### Project 1: Student Performance Analysis
+<br>
+
+## Project 1: Student Performance Analysis
 [Download Student Analysis file](student-performance-insights.xlsx)
-#### Project Overview
+
+### Project Overview
 
 Analysed a student performance dataset to identify which subjects showed the strongest overall performance. 
 
@@ -10,9 +13,14 @@ Analysed a student performance dataset to identify which subjects showed the str
 
 <br>
 
-### Project 2: Bike Sales Trends Visualisation
+---
+
+<br>
+
+## Project 2: Bike Sales Trends Visualisation
 [Download Bike Sales Visualisation file](bike-sales-visualisation.xlsx)
-#### Project Overview
+
+### Project Overview
 
 Created pivot tables and charts in Excel to analyse a bike sales dataset, identifying yearly revenue and profit trends, comparing product revenue by country, and evaluating revenue across different customer age groups.
 
