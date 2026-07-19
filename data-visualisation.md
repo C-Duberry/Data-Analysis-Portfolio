@@ -93,3 +93,5 @@ Created an interactive Power BI dashboard to analyse UK cost of living trends, c
 - Lower salary locations generally showed lower rent as a percentage of income, suggesting that higher salaries do not always translate into greater affordability due to increased housing costs. Barnet and Bromley were notable exceptions, combining relatively high salaries with lower rent pressure.
 - Barnet and Bromley were among the most affordable locations analysed, while London showed the highest cost pressures due to higher living expenses.
 - The salary versus cost of living comparison shows a positive relationship, with higher salaries generally associated with higher living costs. This suggests that increased earnings in some areas may be offset by greater expenses. 
+
+[Home](README.md) | [Back](python.md) 
