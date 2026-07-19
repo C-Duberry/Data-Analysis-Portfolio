@@ -1,5 +1,7 @@
 # <ins>SQL & Database Design</ins>
 
+<br>
+
 ## Project 1: Database Schema Design
  
 [View SQL Database Schema](database_schema.sql)
