@@ -11,6 +11,8 @@ Created a relational database design for a fictional small retailer, including a
 
 <br>
 
+---
+
 ### Project 2: SQL Data Exploration
 
  
