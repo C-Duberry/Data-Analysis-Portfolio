@@ -128,3 +128,5 @@ Created data visualisations using Matplotlib and Seaborn to analyse student perf
 </table>
 
 <br> 
+
+[Back](sql.md) | [Next](data-visualisation.md)
