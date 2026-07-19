@@ -2,7 +2,9 @@
 
 Created interactive dashboards using Tableau and Power BI to visualise data and present findings using charts, filters, and metrics.
 
-## Tableau
+<br>
+
+## <ins>Tableau</ins>
 
 [View Tableau Profile](https://public.tableau.com/app/profile/charlotte.duberry/vizzes)
 
@@ -24,6 +26,9 @@ Created an interactive Tableau dashboard to visualise global life expectancy tre
 
 <br>
 
+---
+
+<br>
 
 ### Project 2: Global CO₂ Emission Trends
 
@@ -43,6 +48,8 @@ Created an interactive Tableau dashboard to explore global CO₂ emissions trend
 <br>
    
 ---
+
+<br>
 
 ## Power BI
    
@@ -65,6 +72,11 @@ Created an interactive Power BI dashboard using the Adventure Works dataset to a
 - Clothing had the highest sales quantity, while bikes generated higher sales value due to their higher price point.
 
 <br>
+
+---
+
+<br>
+
 
 ### Project 2: Cost of Living Analysis UK
 
