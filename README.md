@@ -27,6 +27,10 @@ This portfolio reflects the work I’ve done so far and the skills I’m continu
  ### [Excel](excel.md) | [SQL](sql.md) | [Python](python.md) | [Data Visualisation](data-visualisation.md) 
 ---
 
+# My Projects
 
 
+# My Projects
+
+## [Excel](excel.md) • [SQL](sql.md) • [Python](python.md) • [Data Visualisation](data-visualisation.md)
 
