@@ -1,6 +1,6 @@
-## <ins>SQL & Database Design</ins>
+# <ins>SQL & Database Design</ins>
 
-### Project 1: Database Schema Design
+## Project 1: Database Schema Design
  
 [View SQL Database Schema](database_schema.sql)
 
@@ -12,13 +12,16 @@ Created a relational database design for a fictional small retailer, including a
 <br>
 
 ---
+<br>
 
-### Project 2: SQL Data Exploration
+## Project 2: SQL Data Exploration
 
  
 Used SQL to analyse a world statistics dataset by writing queries such as SELECT, WHERE, GROUP BY, and JOIN to manipulate data and extract insights.
 
-#### Filtering
+<br>
+
+### <ins>Filtering</ins>
 
 Filtered global life expectancy data to identify countries with the highest and lowest life expectancy values.
 
@@ -52,7 +55,7 @@ LIMIT 10;
 
 <br>
 
-#### Aggregation
+### <ins>Aggregation</ins>
 
 Aggregated country data to show the number of countries within each continent.
 
@@ -63,7 +66,7 @@ GROUP BY Continent
 ORDER BY Number_of_Countries DESC;
 ```
 
-##### Result & Insights
+#### Result & Insights
 
 <table>
   <tr>
@@ -77,7 +80,7 @@ ORDER BY Number_of_Countries DESC;
 
 <br>
 
-#### JOIN
+### <ins>JOIN</ins>
 
 Used a JOIN to combine country and city data to compare capital cities with the highest and lowest populations.
 
@@ -104,7 +107,7 @@ ORDER BY city.Population ASC
 LIMIT 10;
 ```
 
-##### Result & Insights
+#### Result & Insights
 
 <table>
   <tr>
