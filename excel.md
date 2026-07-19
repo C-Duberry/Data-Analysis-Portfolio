@@ -25,3 +25,6 @@ Analysed a student performance dataset to identify which subjects showed the str
 Created pivot tables and charts in Excel to analyse a bike sales dataset, identifying yearly revenue and profit trends, comparing product revenue by country, and evaluating revenue across different customer age groups.
 
 <img src="https://github.com/C-Duberry/Data-Analysis-Portfolio/blob/main/Age%20group%20reveue%20pie.PNG?raw=true" alt="[revenue across customer age groups](files/Bike Sales Visualisation.xlsx)" width="800" height="407">
+
+
+[Back](README.md)| [Next](sql.md)
